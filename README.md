@@ -1,4 +1,1 @@
-boilerplate-app
-===============
-
-Boilerplate application using Express and Ember
+It's not ready yet. 
